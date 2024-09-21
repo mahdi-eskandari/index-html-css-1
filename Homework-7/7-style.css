@@ -1,0 +1,84 @@
+.divition {
+position: relative;
+width: 300px;
+height: 500px;
+background-color: rgb(255, 255, 255);
+margin: auto;
+}
+
+.one {
+position: absolute;
+width: 70px;
+height: 70px;
+border-top-right-radius: 90%;
+border-bottom-left-radius: 90%;
+background-color: rgb(224, 28, 28);
+left: 77px;
+top: 70px;
+}
+
+.two {
+    position: absolute;
+width: 70px;
+height: 70px;
+border-top-right-radius: 90%;
+border-bottom-left-radius: 90%;
+background-color: rgb(224, 28, 28);
+right: 77px;
+top: 150px;
+}
+
+.three {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-top-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+    background-color: rgb(224, 28, 28);
+left: 78px;
+top: 145px;
+z-index: 4;
+}
+
+.fore {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-top-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+    background-color: rgb(224, 28, 28);
+top: 75px;
+right: 78px;
+z-index: 4;
+}
+
+.five {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(255, 230, 0);
+    border-radius: 50%;
+    left: 140px;
+    top: 135px;
+    z-index: 5;
+}
+
+.six {
+    position: absolute;
+    width: 8px;
+    height: 250px;
+    background-color: rgb(94, 155, 92);
+    left: 146px;
+    top: 155px;
+}
+
+.seven {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-top-right-radius: 90%;
+    border-bottom-left-radius: 90%;
+    background-color: rgb(88, 146, 86);
+top: 270px;
+left: 76px;
+}

@@ -1,0 +1,45 @@
+.divition {
+    width: 220px;
+    height: 320px;
+    background-color: rgb(246, 250, 249);
+    border: 2px solid rgb(217, 217, 224);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px 5px;
+
+
+}
+
+.image {
+    width: 200px;
+    border: 3px solid rgb(90, 92, 90);
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.header {
+margin-left: 10px;
+
+}
+
+.para {
+    margin-left: 10px;
+    color: rgb(124, 124, 121);
+}
+
+.span {
+    display: block;
+    margin: 10px;
+    color: rgb(219, 160, 51);
+}
+
+.button {
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    background-color: rgb(240, 163, 19);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+border: 2px solid orange;
+}

@@ -1,0 +1,26 @@
+body {
+    position: relative;
+    background-color: rgb(7, 7, 54);
+}
+
+.one {
+    position: absolute;
+width: 150px;
+height: 150px;
+background-color: rgb(7, 7, 54);
+border-radius: 50%;
+top: 180px;
+left: 480px;
+z-index: 2;
+}
+
+.two {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+top: 200px;
+left: 500px;
+z-index: 1;
+}

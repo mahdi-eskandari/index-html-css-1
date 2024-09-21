@@ -1,0 +1,21 @@
+body {
+    position: relative;
+}
+
+.one {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(48, 214, 214);
+    position: absolute;
+    z-index: 1;
+}
+
+.two {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(240, 133, 46);
+    top: 35px;
+    left: 50px;
+    position: absolute;
+    z-index: 2;
+}

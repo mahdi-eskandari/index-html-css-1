@@ -1,0 +1,42 @@
+.divition {
+    width: 200px;
+    height: 200px;
+    border: rgb(59, 56, 56) solid 2px;
+    position: relative;
+}
+
+.one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(70, 202, 202);
+    left: 10px;
+    top: 10px;
+}
+
+.two {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(70, 202, 202);
+    left: 15px;
+bottom: 10px;
+}
+
+.three {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(70, 202, 202);
+right: 10px;
+bottom: 10px;
+}
+
+.fore {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(70, 202, 202);
+    right: 10px;
+    top: 10px;
+}

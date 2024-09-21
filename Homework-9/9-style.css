@@ -1,0 +1,475 @@
+.divition {
+    position: relative;
+    margin: auto;
+    background-color: rgb(240, 239, 239);
+    width: 500px;
+    height: 400px;
+    padding: 5px;
+    border: solid 2px rgb(207, 198, 198);
+}
+
+.div-1 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    left: 120px;
+
+}
+
+.div-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    left: 120px;
+}
+
+.div-3 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    left: 120px;
+}
+
+.div-4 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 90px;
+    left: 150px;
+}
+
+.div-5 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    left: 150px;
+}
+
+.div-6 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    left: 150px;
+}
+
+.div-7 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    left: 150px;
+}
+
+.div-8 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    left: 150px;
+}
+
+.div-9 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 90px;
+    left: 180px;
+}
+
+
+.div-10 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    left: 180px;
+}
+
+.div-11 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    left: 180px;
+}
+
+.div-12 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    left: 180px;
+}
+
+.div-13 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    left: 180px;
+}
+
+.div-14 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 240px;
+    left: 180px;
+}
+
+.div-15 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    left: 210px;
+}
+
+.div-16 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    left: 210px;
+}
+
+.div-17 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    left: 210px;
+}
+
+.div-18 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    left: 210px;
+}
+
+.div-19 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 240px;
+    left: 210px;
+}
+
+.div-20 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 270px;
+    left: 210px;
+}
+
+.div-21 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    left: 240px;
+}
+
+.div-22 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    left: 240px;
+}
+
+.div-23 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    left: 240px;
+}
+
+.div-24 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 240px;
+    left: 240px;
+}
+
+.div-25 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 270px;
+    left: 240px;
+}
+
+.div-26 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 300px;
+    left: 240px;
+}
+
+.div-27 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    right: 205px;
+}
+
+.div-28 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    right: 205px;
+}
+
+.div-29 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    right: 205px;
+}
+
+.div-30 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    right: 205px;
+}
+
+.div-31 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 240px;
+    right: 205px;
+}
+
+.div-32 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 270px;
+    right: 205px;
+}
+
+.div-33 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 90px;
+    right: 175px;
+}
+
+.div-34 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    right: 175px;
+}
+
+.div-35 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    right: 175px;
+}
+
+.div-36 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    right: 175px;
+}
+
+.div-37 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    right: 175px;
+}
+
+.div-38 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 240px;
+    right: 175px;
+}
+
+.div-39 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 90px;
+    right: 145px;
+}
+
+.div-40 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    right: 145px;
+}
+
+.div-41 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    right: 145px;
+}
+
+.div-42 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    right: 145px;
+
+}
+
+.div-43 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 210px;
+    right: 145px;
+
+}
+/* rtyubwrtunrtuetunrwtunrwtun
+wrtunryuruwrur
+nrunr */
+.div-44 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 120px;
+    right: 115px;
+}
+
+.div-45 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 150px;
+    right: 115px;
+}
+
+.div-46 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(156, 8, 58);
+    border: 2px solid white;
+    top: 180px;
+    right: 115px;
+}
